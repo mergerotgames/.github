@@ -6,7 +6,7 @@
 
 ## 🎮 Play the Game
 
-👉 [Play Merge Rot Now](https://yourgameurl.com)  
+👉 [Play Merge Rot Now](https://mergerotgames.com/)  
 💣 Warning: may cause uncontrollable laughter, confusion, and desire to merge everything IRL.
 
 ---
@@ -59,8 +59,3 @@ This game was inspired by Italian Brainrot memes, chaotic animation loops, and t
 ## 📜 License
 
 MIT, because rot is meant to be shared.
-
----
-
-Made with 💥 by the **mergerotgames** team  
-Follow for more brainrot: [@yourtwitter](https://twitter.com)  
